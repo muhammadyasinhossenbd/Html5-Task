@@ -32,3 +32,19 @@
     font-size: 25px;
 
 }
+
+.desc {
+    font-size: medium;
+
+
+}
+
+.contact {
+    border: 2px solid rgb(38, 31, 138);
+    box-shadow: 3px 2px 3px rgb(4, 255, 222);
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 10px;
+
+}
