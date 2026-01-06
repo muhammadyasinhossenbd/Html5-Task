@@ -1,0 +1,21 @@
+main {
+    max-width: 1270px;
+    margin: 0 auto;
+
+}
+
+.container-01 {
+    display: flex;
+    gap: 5px;
+}
+
+.container-01,
+img {
+    margin-top: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
